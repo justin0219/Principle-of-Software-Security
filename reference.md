@@ -1,1 +1,1 @@
-http://www.freebuf.com/news/138362.html
+- [PRMitM：可重置账号密码的中间人攻击，可绕过双因素认证](http://www.freebuf.com/news/138362.html)
