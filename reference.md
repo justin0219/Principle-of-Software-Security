@@ -13,7 +13,7 @@
     + 人机接口
 + [Your Voice is My Passport](https://www.blackhat.com/us-18/briefings/schedule/#your-voice-is-my-passport-11395)
     + 人机交互
-+ [AI & ML in Cyber Security - Why Algorithms are Dangerous]（https://www.blackhat.com/us-18/briefings/schedule/#ai--ml-in-cyber-security---why-algorithms-are-dangerous-10626）    
++ [AI & ML in Cyber Security - Why Algorithms are Dangerous](https://www.blackhat.com/us-18/briefings/schedule/#ai--ml-in-cyber-security---why-algorithms-are-dangerous-10626)
     + AI的可信任性
 + [Catch me, Yes we can! – Pwning Social Engineers using Natural Language Processing Techniques in Real-Time](https://www.blackhat.com/us-18/briefings/schedule/#catch-me-yes-we-can--pwning-social-engineers-using-natural-language-processing-techniques-in-real-time-9946)
     + 基于NLP的社会工程学攻击
