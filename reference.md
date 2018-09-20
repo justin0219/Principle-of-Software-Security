@@ -18,6 +18,32 @@
 + [Catch me, Yes we can! – Pwning Social Engineers using Natural Language Processing Techniques in Real-Time](https://www.blackhat.com/us-18/briefings/schedule/#catch-me-yes-we-can--pwning-social-engineers-using-natural-language-processing-techniques-in-real-time-9946)
     + 基于NLP的社会工程学攻击
 
+## USENIX 2018
+
++ [Skill Squatting Attacks on Amazon Alexa](https://www.usenix.org/conference/usenixsecurity18/presentation/kumar)
+    + 人机交互
++ [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://www.usenix.org/conference/usenixsecurity18/presentation/yuan-xuejing)
+    + 人机交互
+    + 语音识别
++ [Better managed than memorized? Studying the Impact of Managers on Password Strength and Reuse](https://www.usenix.org/conference/usenixsecurity18/presentation/lyastani)
+    + 人机接口
+    + 密码管理
++ [Forgetting of Passwords: Ecological Theory and Data](https://www.usenix.org/conference/usenixsecurity18/presentation/gao-xianyi)
+    + 人机接口
+    + 密码管理
++ [The Rewards and Costs of Stronger Passwords in a University: Linking Password Lifetime to Strength](https://www.usenix.org/conference/usenixsecurity18/presentation/becker)
+    + 人机接口
+    + 密码管理
++ [Rethinking Access Control and Authentication for the Home Internet of Things (IoT)](https://www.usenix.org/conference/usenixsecurity18/presentation/he)
+    + 人机接口
+    + IoT的控制策略
++ [Simple Password-Hardened Encryption Services](https://www.usenix.org/conference/usenixsecurity18/presentation/lai)
+    + 人机接口
+    + 密码
++ [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi)
+    + 风险
+    + 机器学习的可信任性
+
 ## Misc
 
 - [PRMitM：可重置账号密码的中间人攻击，可绕过双因素认证](http://www.freebuf.com/news/138362.html)
